@@ -12,6 +12,3 @@
  Vigenere Cypher
  
  These scripts were developed in Python.
- 
- More work needs to be done to document how it can be used.
- However, someone who needs these scripts and knows the steps of these underlying algorithms can quickly figure out how it is used.
